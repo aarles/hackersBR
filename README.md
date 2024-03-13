@@ -4,26 +4,26 @@ Estamos em todos os lugares. Somos de todas as espécies, tipos, cores, crenças
 
 ## Princípios da  Ética Hacker
 
-O acesso ao conhecimento deve ser ilimitado e total
+- O acesso ao conhecimento deve ser ilimitado e total
 
-Sempre atenda ao imperativo de Mão-na-massa
+- Sempre atenda ao imperativo de Mão-na-massa
 
-Toda informação deve ser livre
+- Toda informação deve ser livre
 
-Desconfie da autoridade - promova descentralização
+- Desconfie da autoridade - promova descentralização
 
-hackers devem ser julgados por sua hackeragem
+- hackers devem ser julgados por sua hackeragem
 
-você pode criar arte e beleza com um computador e com o barro tirado do chão - é só querer
+- você pode criar arte e beleza com um computador e com o barro tirado do chão - é só querer
 
-Tecnologias podem mudar a vida pra melhor
+- Tecnologias podem mudar a vida pra melhor
 
 ## Princípios da  Colaboração em Rede
 
-Abrir o que deve ser público e proteger o que deve ser privado - #liberdade #proteção
+1. Abrir o que deve ser público e proteger o que deve ser privado - #liberdade #proteção
 
-Dialogar horizontalmente e dar Feedback frequentemente - #comunidade #escuta
+2. Dialogar horizontalmente e dar Feedback frequentemente - #comunidade #escuta
 
-Eleger as Prioridades e Compartilhar os Recursos - #governança #colaboração
+3. Eleger as Prioridades e Compartilhar os Recursos - #governança #colaboração
 
-Identificar e Registrar para medir reputação, e não controle - #identidade #reputação
+4. Identificar e Registrar para medir reputação, e não controle - #identidade #reputação
