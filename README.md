@@ -1,0 +1,2 @@
+# hackersBR
+Manifesto Hackers Brasil
